@@ -20,10 +20,10 @@
 ## 📊 GitHub Stats
 ![Célio Vieira Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=celiovieirajr&show_icons=true&theme=radical)
 
-## 📌 Projetos em Destaque
+<!-- ## 📌 Projetos em Destaque
 
 🔹 **[📊 Sistema de Gerenciamento e Entretenimento (TCC)](https://github.com/celiovieirajr/projeto-tcc)**
-> Aplicação para microempreendedores, incluindo gerenciamento de empresas, apresentação de cardápio e interatividade para clientes.
+> Aplicação para microempreendedores, incluindo gerenciamento de empresas, apresentação de cardápio e interatividade para clientes. -->
 
 <!-- 🔹 **[🛠️ Ferramentas para Testes de Software](https://github.com/celiovieirajr/ferramentas-qa)**
 > Scripts e automações para auxiliar no trabalho de Quality Assurance. -->
