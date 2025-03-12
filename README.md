@@ -3,7 +3,6 @@
 ## 🚀 Sobre Mim
 - 🔍 Atuando como QA, mas também programando em **SQL**;
 - 📚 Estudante de **Java**;
-<!-- - 💡 Criando soluções para -->
 - 🎯 Apaixonado por tecnologia, inovação e aprendizado contínuo.
 
 
