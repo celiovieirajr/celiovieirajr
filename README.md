@@ -34,5 +34,3 @@
 🐙 GitHub: [github.com/celiovieirajr](https://github.com/celiovieirajr/)  
 
 ---
-
-⭐ **Se gostou do perfil, deixe um star nos meus projetos!** ⭐
