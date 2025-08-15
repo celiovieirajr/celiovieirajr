@@ -1,11 +1,5 @@
 # 🧑‍💻 Célio Oliveira Vieira Jr.
 
-![coding-animation](https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif)
-
-> Profissional com experiência em qualidade de software, suporte técnico e testes, entregando automação e APIs de alto valor.
-
----
-
 ## 🚀 Sobre Mim
 
 Profissional com experiência em qualidade de software e suporte técnico, buscando oportunidades como Desenvolvedor Júnior ou Analista de Testes Automatizados Júnior.  
@@ -59,9 +53,7 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 
 ## 🎯 Competências & Aprendizados
 
-- Testes automatizados com Robot Framework e API testing  
-- TDD e cobertura de testes unitários/integrados  
-- CI/CD com GitHub Actions e Jenkins  
+- Testes automatizados com Robot Framework e API testing   
 - Documentação de requisitos e processos  
 - Metodologias ágeis: Scrum e Kanban  
 - Geoprocessamento reativo com JTS  
