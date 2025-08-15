@@ -1,4 +1,4 @@
-# 🧑‍💻 Célio Oliveira Vieira Jr.
+# 🧑‍💻 Célio Vieira Jr.
 
 ## 🚀 Sobre Mim
 
