@@ -27,7 +27,7 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 
 | Projeto                 | Descrição                                              | Tech Stack              | Build                             | Cobertura      |
 |-------------------------|--------------------------------------------------------|-------------------------|-----------------------------------|----------------|
-| **lab-cana-fire**       | Detecta focos de incêndio em canaviais via geoprocesso | Java · Spring · JTS     | ![Pass](https://img.shields.io/badge/build-passing-brightgreen)   | ![75%](https://img.shields.io/badge/coverage-75%25-blue)   |
+| **lab-cana-fire**       | Detecta focos de incêndio em canaviais via geoprocesso | Java · Spring · JTS     | ![Pass](https://img.shields.io/badge/build-passing-brightgreen)   | -              |
 | **crud-cliente-viacep** | API CRUD que preenche endereço via ViaCEP              | Java · Spring · WebFlux | ![Pass](https://img.shields.io/badge/build-passing-brightgreen)   | –              |
 
 <details>
