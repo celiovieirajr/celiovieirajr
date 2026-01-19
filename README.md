@@ -11,14 +11,11 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=celiovieirajr&show_icons=true&theme=shadow_red" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiovieirajr&theme=shadow_red&layout=donut" />
-</div>
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="celiovieirajr" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celiovieirajr/celiovieirajr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/celiovieirajr/celiovieirajr/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/celiovieirajr/celiovieirajr/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## ⚙️ Tech Highlights
