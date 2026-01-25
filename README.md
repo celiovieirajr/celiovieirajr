@@ -63,4 +63,4 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-celiovieirajr-blue)](https://www.linkedin.com/in/celiovieirajr)  
-✉️ celiojuniorata@gmail.com
+✉️ celiojuniorata@outlook.com
