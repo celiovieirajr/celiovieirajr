@@ -14,7 +14,7 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 ## ⚙️ Tech Highlights
 
 ![Java](https://img.shields.io/badge/Java-17-blue)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.x-brightgreen)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.2.x-brightgreen)  
 ![Postman](https://img.shields.io/badge/Postman-API_testing-orange)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blueviolet)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automation-purple)  
