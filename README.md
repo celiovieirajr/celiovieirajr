@@ -28,7 +28,7 @@ Profissional com experiência em qualidade de software e suporte técnico, busca
 | Projeto                 | Descrição                                                                                         | Tech Stack                                      | Build                             | Cobertura |
 |-------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------|----------|
 | **lab-cana-fire**       | Detecta focos de incêndio em canaviais via geoprocesso                                           | Java · Spring · JTS                              | ![Pass](https://img.shields.io/badge/build-passing-brightgreen) | -        |
-| **E-Commerce Core API** | Backend que simula o core de uma plataforma de vendas online (REST API) com foco em boas práticas | Java 17 · Spring Boot · Liquibase · H2/MySQL · JUnit 5 · Mockito | ![Pass](https://img.shields.io/badge/build-passing-brightgreen) | -        |
+| **E-Commerce Core API** | Backend que simula o core de uma plataforma de vendas online (REST API) com foco em boas práticas | Java 23 · Spring Boot · Liquibase · H2/MySQL · JUnit 5 · Mockito | ![Pass](https://img.shields.io/badge/build-passing-brightgreen) | -        |
 
 <details>
 <summary>🔍 Insights Rápidos</summary>
