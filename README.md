@@ -88,7 +88,6 @@ API REST modular seguindo boas práticas de arquitetura corporativa:
 - **🚨 Exception Handling**: `@RestControllerAdvice` global com `ApiException`, `ViacepException`, `FieldErrorDto` e respostas padronizadas com timestamp
 - **🧪 Testes**: JUnit 5 + Mockito (unitários e integração)
 - **⚙️ CI**: GitHub Actions com JDK 23, Maven cache e `mvn -B package`
-- **🔮 Roadmap**: Dockerização, deploy automatizado (blue/green), métricas Prometheus, JaCoCo + Checkstyle
 
 </details>
 
@@ -107,7 +106,6 @@ API REST modular seguindo boas práticas de arquitetura corporativa:
 | **API & Docs** | REST, OpenAPI/Swagger, Postman |
 | **Testes** | JUnit 5, Mockito, JaCoCo (≥ 70%) |
 | **CI/CD** | GitHub Actions, Maven |
-| **DevOps** | Docker (planejado), perfis de ambiente (homolog/prod) |
 | **Notificações** | Gmail SMTP, Twilio SMS |
 | **Metodologias** | Scrum, Kanban |
 
