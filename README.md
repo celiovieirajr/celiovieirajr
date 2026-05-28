@@ -4,7 +4,7 @@
 
 Profissional com experiência em qualidade de software e suporte técnico, buscando oportunidades como **Desenvolvedor Júnior** ou **Analista de Testes Automatizados Júnior**.
 
-- **Foco**: API REST, geoprocessamento, automação de testes e dCocumentação
+- **Foco**: API REST, geoprocessamento, automação de testes e documentação
 - **Metodologias**: Scrum · Kanban
 - **Perfil**: Proativo, com foco em aprendizado contínuo e aprimoramento de habilidades em desenvolvimento e automação de testes
 
